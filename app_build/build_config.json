@@ -1,0 +1,10 @@
+{
+    "majorVersion": 0,
+    "minorVersion": 1,
+    "buildNumber": 0,
+    "defaultMemmapFile": "./memmap.ld",
+    "flashSize": 4194304,
+    "appSize": 1048576,
+    "bootloaderSize": 131072,
+    "defaultHeaderSize": 4096
+}
